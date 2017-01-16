@@ -24,13 +24,35 @@ Jon McClure
 
 Data and news applications editor, _The Dallas Morning News_
 
-Twitter: [@jonrmcclure](https://twitter.com/JonRMcClure)
+Email: jmcclure@dallasnews.com
 
 Phone: 913-481-2788
 
-Email: jmcclure@dallasnews.com
+Twitter: [@jonrmcclure](https://twitter.com/JonRMcClure)
+
+
 
 ### House rules
+
+#### Attendance
+
+I will not take attendance, but each class will presume you've incorporated the coursework and discussion from the previous session. So attend all class sessions and expect to stay the duration of the class.
+
+While I won't take an attendance grade, participation in class discussions _will be_ reflected in your grade, which is very hard to score highly on when you're not present.
+
+If you miss a class, I don't need an explanation; we're all adults. But since I work a real job, too, I cannot go out of my way to catch you up. Beg and plead with fellow classmates for their notes and help. Deadlines are real, so please respect them, too.
+
+#### Classroom etiquette
+
+Please silence your cell phones in class and refrain from checking them while other people are speaking.
+
+#### Code of conduct
+
+We will discuss issues in journalism during this course over which reasonable people will disagree. I ask that you respect one another's views in class in accordance with university policies and guidelines.
+
+Any intimidation, harassment or otherwise threatening behavior by any member of this class against any other will not be tolerated and will be reported to the university, so play nice.
+
+Do your own work, and when working in a group, be sure you are an equal contributor on projects and assignments. Again, see attendant guidelines from the university, re: plagiarism, etc.
 
 #### Communicating
 
@@ -42,24 +64,8 @@ I will send invitations during our first class to join our class Slack team. You
 
 **Note:** In some cases, I may ask assignments or other materials be emailed to my personal email, above. Those will be exceptions to the rule and clearly communicated.
 
-#### Attendance
+#### Disability accommodations
 
-I will not take attendance, but each class will presume you've incorporated the coursework and discussion from the previous session. So please attend all class sessions and expect to stay the duration of the class.
-
-While I won't take an attendance grade, participation in class discussions will be reflected in your grade, which is very hard to score highly on when you're not here.
-
-If you miss a class, I don't need an explanation, we're all adults. But since I work a real job, too, I cannot go out of my way to catch you up. Beg and plead with fellow classmates for their notes and help. Deadlines are real, so please respect them, too.
-
-#### Code of conduct
-
-We will discuss issues in journalism during this course over which reasonable people will disagree. I ask that you respect one another's views in class in accordance with universoneity policies and guidelines.
-
-Any intimidation, harassment or otherwise threatening behavior by any member of this class against any other will not be tolerated and will be reported to the university, so play nice.
-
-Do your own work, and when working in a group, be sure you are an equal contributor. Again, see attendant guidelines from the university, re: plagiarism, etc.
-
-#### Manners
-
-Also, please turn your cell phones to silent in class and refrain from checking them during class.
+Please let me know of any special accommodations you may need due to a disability. As usual, university policies and guidelines will apply.
 
 
