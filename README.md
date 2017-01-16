@@ -48,9 +48,13 @@ I will not take attendance, but each class will presume you've incorporated the 
 
 If you miss one, I don't need an explanation, but since I work a real job, too, I cannot go out of my way to catch you up. Beg and plead with fellow classmates for their notes and help. Deadlines are real, so please respect them, too.
 
-#### Ethics
+#### Ethics and code of conduct
 
 We will discuss issues in journalism during this course over which reasonable people will disagree. I ask that you respect one another's views in class in accordance with university policies and guidelines.
 
+Any intimidation, harassment or otherwise threatening behavior by any member of this class against any other will not be tolerated and will be reported to the university, so play nice.
+
 Do your own work, and when working in a group, be sure you are an equal contributor. Again, see attendant guidelines from the university, re: plagiarism, etc.
+
+
 

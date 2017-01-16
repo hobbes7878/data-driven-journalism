@@ -1,8 +1,8 @@
 # Course schedule
 
-1/18: Introduction to course
+1/18: Introductions
 
-1/25:
+1/25: Quantitative methods in journalism
 
 2/1:
 
