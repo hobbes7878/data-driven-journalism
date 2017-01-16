@@ -38,23 +38,28 @@ We will use modern technologies to communicate in this class. Namely, [Slack](ht
 
 Slack is where I will post class assignments, leave discussion questions, post cool examples of data journalism in the wild and respond to your questions during waking hours.
 
-I will send invitations during our first class to join our class Slack team. You can then access the team either via the Slack [desktop application](https://slack.com/downloads) or through the [web app online](https://slack.com/signin). The team name is our course number: **JRN-3V50**.
+I will send invitations during our first class to join our class Slack team. You can then access the team either via the Slack [desktop application](https://slack.com/downloads) or through the [online app](https://slack.com/signin). The team name is our course number: **JRN-3V50**.
 
 **Note:** In some cases, I may ask assignments or other materials be emailed to my personal email, above. Those will be exceptions to the rule and clearly communicated.
 
 #### Attendance
 
-I will not take attendance, but each class will presume you've incorporated the coursework and discussion from the previous session. So please attend all classes. 
+I will not take attendance, but each class will presume you've incorporated the coursework and discussion from the previous session. So please attend all class sessions and expect to stay the duration of the class.
 
-If you miss one, I don't need an explanation, but since I work a real job, too, I cannot go out of my way to catch you up. Beg and plead with fellow classmates for their notes and help. Deadlines are real, so please respect them, too.
+While I won't take an attendance grade, participation in class discussions will be reflected in your grade, which is very hard to score highly on when you're not here.
 
-#### Ethics and code of conduct
+If you miss a class, I don't need an explanation, we're all adults. But since I work a real job, too, I cannot go out of my way to catch you up. Beg and plead with fellow classmates for their notes and help. Deadlines are real, so please respect them, too.
 
-We will discuss issues in journalism during this course over which reasonable people will disagree. I ask that you respect one another's views in class in accordance with university policies and guidelines.
+#### Code of conduct
+
+We will discuss issues in journalism during this course over which reasonable people will disagree. I ask that you respect one another's views in class in accordance with universoneity policies and guidelines.
 
 Any intimidation, harassment or otherwise threatening behavior by any member of this class against any other will not be tolerated and will be reported to the university, so play nice.
 
 Do your own work, and when working in a group, be sure you are an equal contributor. Again, see attendant guidelines from the university, re: plagiarism, etc.
 
+#### Manners
+
+Also, please turn your cell phones to silent in class and refrain from checking them during class.
 
 

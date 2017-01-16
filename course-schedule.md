@@ -33,3 +33,5 @@
 5/3: Last class
 
 **Monday**, 5/8: Final projects due by **noon**
+
+**Note:** This schedule is subject to change. 
