@@ -34,4 +34,4 @@
 
 5/8 (Monday): Final projects due by **noon**
 
-**Note:** Schedule is subject to change...
+**Note:** Schedule is subject to change, especially during the first couple weeks of class as I'm finalizing this syllabus.
