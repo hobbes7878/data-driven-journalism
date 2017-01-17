@@ -30,6 +30,7 @@ Phone: 913-481-2788
 
 Twitter: [@jonrmcclure](https://twitter.com/JonRMcClure)
 
+---
 
 ### Grades
 
@@ -37,18 +38,29 @@ Twitter: [@jonrmcclure](https://twitter.com/JonRMcClure)
 - 30% - Midterm project
 - 30% - Final project
 
-##### Class participation
+#### Class participation
 
 Class participation will be graded after every class on a 3-point scale:
 
-**3 points:** You came to class obviously prepared, participated in discussion with original insights that forwarded class conversation. 
+**3 points:** You came to class obviously prepared and participated in that day's discussion with original insights that forwarded the conversation. 
 
-**2 points:** You came and participated in the discussion, but mostly just reacted to what other people said, rather than give your own original take. It was not entirely clear to me you read all required reading or completed all of the assignments for that day's class.
+**2 points:** You came and participated in the discussion, but mostly just reacted to what other people said rather than give your own original take. It was not entirely clear to me you read all required reading or completed all of the assignments for that day's class.
 
 **1 point:** You were not an active participant in class conversation. It was clear to me you did not complete required readings or assignments before class.
 
-If you're worried about your participation grade, come see me **sooner rather than later** to discuss how you're doing and how you can improve your grade.
+In rare cases, a class participation grade will include a reading quiz. These will not be pop quizzes.
 
+If you're worried about your participation grade, ask me **sooner rather than later** how you're doing and how you can improve your grade.
+
+#### Midterm project
+
+The midterm project will require you to identify a public dataset and acquire it from a public agency using open records laws.
+
+#### Final project
+
+The final project will challenge you to complete an act of journalism by analyzing a public dataset and reporting a significant finding through clear copy and data visualization.
+
+---
 
 ### House rules
 
@@ -61,7 +73,7 @@ If you miss a class, you will get **zero participation points** for that session
 
 If you have a medical, family or other emergency that kept you from class, then you can make up _one point_ if you earn 3 points the next session. Because each class will build on the one before, you will not get those 3 points unless you've also learned the stuff you missed.
 
-Please expect each class to last the duration of the time allotted, even if it doesn't.
+Please expect each class to last the durommunicatingation of the time allotted, even if it doesn't.
 
 #### Classroom etiquette
 
