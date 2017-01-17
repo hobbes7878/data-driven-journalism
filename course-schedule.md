@@ -2,9 +2,9 @@
 
 1/18: Introductions
 
-1/25: Quantitative methods in journalism
+1/25: Math for Hacks: Quantitative methods in journalism
 
-2/1:
+2/1: 
 
 2/8:
 
@@ -18,13 +18,13 @@
 
 3/15: Spring break, no class
 
-3/22:
+3/22: Statistical analysis, part 1
 
-3/29:
+3/29: Statistical analysis, part 2
 
-4/5:
+4/5: Data visualization, part 1
 
-4/12:
+4/12: Data visualization, part 2
 
 4/19:
 

@@ -91,7 +91,7 @@ Do your own work, and when working in a group, be sure you are an equal contribu
 
 We will use modern technologies to communicate in this class. Namely, [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g), which is a free team-based comms platform that we use at _The Dallas Morning News_.
 
-Slack is where I will post class assignments, leave discussion questions, post cool examples of data journalism in the wild and respond to your questions during waking hours.
+Slack is where I will post class assignments, leave discussion questions, post cool examples of data journalism in the wild and respond to your questions outside of class during waking hours.
 
 I will send invitations during our first class to join our class Slack team. You can then access the team either via the Slack [desktop application](https://slack.com/downloads) or through the [online app](https://slack.com/signin). The team name is our course number: **JRN-3V50**.
 
