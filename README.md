@@ -89,7 +89,9 @@ This is a once-weekly class, so attendance is important. That said, I will not t
 
 If you miss a class, you will get **zero participation points** for that session.
 
-If you have a medical, family or other emergency that kept you from class, then you can make up _2 points_ if you earn 3 points the next session _and_ can demonstrate you've mastered the material you missed.
+If you have a medical, family or other emergency that kept you from class, then you can make up 1 point if you earn 3 points the next session _and_ can demonstrate you've mastered the material you missed. You can do this at most once.
+
+Because we have so few class sessions, if you plan on missing two or more classes, I would ask you to consider dropping the class.
 
 Please expect each class to last the duration of the time allotted.
 
