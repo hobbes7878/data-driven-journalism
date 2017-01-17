@@ -124,6 +124,6 @@ Do your own work, and when working in a group, be sure you are an equal contribu
 
 #### Disability accommodations
 
-Please let me know of any special accommodations you may need due to a disability. As usual, university policies and guidelines will apply.
+Please let me know of any special accommodations you may need due to a disability. As usual, university policies and guidelines apply.
 
 
