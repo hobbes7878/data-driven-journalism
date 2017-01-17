@@ -10,7 +10,11 @@ Students will learn to wield basic statistics for good, not evil; to use softwar
 
 Coursework will include critical readings of contemporary and classic examples of data journalism. Students will also request electronic records from government agencies through open records laws, clean dirty data programmatically, use basic statistics to find the story buried in electronic records and create truthful and compelling data visualizations. Students will be expected to execute a substantial work of journalism that uses publically available data as a final project.
 
-### When and where
+---
+
+### Logistics
+
+#### When and where
 
 Wednesdays, 7:00 - 9:50 p.m.
 
@@ -18,7 +22,7 @@ Carpenter Hall, Room 221
 
 (We may also meet virtually some weeks, depending on my travel schedule.)
 
-### Your teacher
+#### Your teacher
 
 Jon McClure
 
@@ -29,6 +33,10 @@ Email: jmcclure@dallasnews.com
 Phone: 913-481-2788
 
 Twitter: [@jonrmcclure](https://twitter.com/JonRMcClure)
+
+#### Office hours
+
+Owing to my day job, I will not be hosting regular office hours outside of class. Instead, I will be available after any class for private consultation and will be at your beck and call on Slack, email, my phone.
 
 ---
 
@@ -60,6 +68,16 @@ The midterm project will require you to identify a public dataset and acquire it
 
 The final project will challenge you to complete an act of journalism by analyzing a public dataset and reporting a significant finding through clear copy and data visualization.
 
+You may propose to work on a suitably large dataset in a small group, but my preference will be that everyone produces a final analysis independently.
+
+---
+
+### Required materials
+
+There are no required textbooks for this class. All readings will be distributed electronically.
+
+You will need to bring your own laptop to class. If you do not own a laptop, please see me.
+
 ---
 
 ### House rules
@@ -76,7 +94,7 @@ If you have a medical, family or other emergency that kept you from class, then 
 Please expect each class to last the durommunicatingation of the time allotted, even if it doesn't.
 
 #### Classroom etiquette
-
+tell
 Please silence your cell phones in class and refrain from checking them while other people are speaking.
 
 #### Code of conduct
