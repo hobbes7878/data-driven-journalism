@@ -2,13 +2,13 @@
 
 ### Course description
 
-Data journalism is a set of techniques to acquire and communicate truths hidden in electronic records. The inputs can be as simple as a spreadsheet or as voluminous as databases of millions of electronic records. The outputs are compelling statistics, evidence-backed narratives and deeply immersive data visualizations.
+Every day someone in a position of power or influence  in America says something that frames important decisions, a claim to facts that will be wrong. But too often the claims go unchallenged. Why? Because the evidence to contradict it required a journalist to do math.
 
-In this course, we’ll look at data journalism’s interdisciplinary roots, drawing from fields as diverse as mathematics, computer science, information design, social science and psychology. We won’t consider data journalism as a specialization, but as a basic skillset every journalist needs to work a beat in the information age.
+Today more than ever, truth is what you can prove with data. Data journalism is a set of techniques to acquire and communicate vital truths hidden in electronic records. The inputs can be as simple as a spreadsheet or as large as a database of millions of records. The outputs are compelling statistics and narratives and deeply immersive data visualizations.
 
-Students will learn to wield basic statistics for good, not evil; to use software to find the story no else can; to distill abstract data into arresting visualizations and to write a data story with soul.
+In this course, we’ll look at data journalism’s interdisciplinary roots, drawing from fields as diverse as mathematics, computer science, information design, social science and psychology. We won’t consider data journalism as a specialization, but as a basic skill set every journalist needs to work a beat in the information age.
 
-Coursework will include critical readings of contemporary and classic examples of data journalism. Students will also request electronic records from government agencies through open records laws, clean dirty data programmatically, use basic statistics to find the story buried in electronic records and create truthful and compelling data visualizations. Students will be expected to execute a substantial work of journalism that uses publically available data as a final project.
+Students will learn to wield basic statistics for good; to use software to find the story no else can; and to distill abstract data into arresting visualizations. We’ll learn to write a data story with soul, and consider data in the context of larger mechanisms like social networks and algorithms capable of biases that can disadvantage people.
 
 ---
 
