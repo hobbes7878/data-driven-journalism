@@ -31,16 +31,37 @@ Phone: 913-481-2788
 Twitter: [@jonrmcclure](https://twitter.com/JonRMcClure)
 
 
+### Grades
+
+- 40% - Class participation
+- 30% - Midterm project
+- 30% - Final project
+
+##### Class participation
+
+Class participation will be graded after every class on a 3-point scale:
+
+**3 points:** You came to class obviously prepared, participated in discussion with original insights that forwarded class conversation. 
+
+**2 points:** You came and participated in the discussion, but mostly just reacted to what other people said, rather than give your own original take. It was not entirely clear to me you read all required reading or completed all of the assignments for that day's class.
+
+**1 point:** You were not an active participant in class conversation. It was clear to me you did not complete required readings or assignments before class.
+
+If you're worried about your participation grade, come see me **sooner rather than later** to discuss how you're doing and how you can improve your grade.
+
 
 ### House rules
 
+
 #### Attendance
 
-I will not take attendance, but each class will presume you've incorporated the coursework and discussion from the previous session. So attend all class sessions and expect to stay the duration of the class.
+This is a once-weekly class, so attendance is important. That said, I will not take attendance, _per se_. You will instead be graded on your participation in class.
 
-While I won't take an attendance grade, participation in class discussions _will be_ reflected in your grade, which is very hard to score highly on when you're not present.
+If you miss a class, you will get **zero participation points** for that session.
 
-If you miss a class, I don't need an explanation; we're all adults. But since I work a real job, too, I cannot go out of my way to catch you up. Beg and plead with fellow classmates for their notes and help. Deadlines are real, so please respect them, too.
+If you have a medical, family or other emergency that kept you from class, then you can make up _one point_ if you earn 3 points the next session. Because each class will build on the one before, you will not get those 3 points unless you've also learned the stuff you missed.
+
+Please expect each class to last the duration of the time allotted, even if it doesn't.
 
 #### Classroom etiquette
 
@@ -48,13 +69,13 @@ Please silence your cell phones in class and refrain from checking them while ot
 
 #### Code of conduct
 
-We will discuss issues in journalism during this course over which reasonable people will disagree. I ask that you respect one another's views in class in accordance with university policies and guidelines.
+We will discuss issues in journalism during this course over which reasonable people can and will disagree. I ask that you respect one another's views in class in accordance with university policies and guidelines.
 
-Any intimidation, harassment or otherwise threatening behavior by any member of this class against any other will not be tolerated and will be reported to the university, so play nice.
+Any intimidation, harassment or otherwise threatening behavior by any member of this class against any other will not be tolerated and will be reported to the university or other appropriate authority, so play nice.
 
-Do your own work, and when working in a group, be sure you are an equal contributor on projects and assignments. Again, see attendant guidelines from the university, re: plagiarism, etc.
+Do your own work, and when working in a group, be sure you are an equal contributor on projects and assignments. Again, see attendant guidelines from the university re: plagiarism, etc.
 
-#### Communicating
+#### How to communicate with me and with each other
 
 We will use modern technologies to communicate in this class. Namely, [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g), which is a free team-based comms platform that we use at _The Dallas Morning News_.
 
