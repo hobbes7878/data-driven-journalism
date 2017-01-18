@@ -26,7 +26,7 @@
 
 4/12: Data visualization, part 2
 
-4/19: Reproducibility, and ethics of data journalism
+4/19: Reproducibility and ethics of data journalism
 
 4/26: Flex day
 
