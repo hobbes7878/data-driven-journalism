@@ -20,7 +20,6 @@ Wednesdays, 7:00 - 9:50 p.m.
 
 Carpenter Hall, Room 221
 
-(We may also meet virtually some weeks, depending on my travel schedule.)
 
 #### Your teacher
 
@@ -56,7 +55,7 @@ Class participation will be graded after every class on a 3-point scale:
 
 **1 point:** You were not an active participant in class conversation. It was clear to me you did not complete required readings or assignments before class.
 
-In rare cases, a class participation grade will include a reading quiz. These will not be pop quizzes. More regularly, you will produce proof you completed an exercise in class as part of your participation grade.
+In rare cases, a class participation grade will include a reading quiz. These will not be pop quizzes. More regularly, you will produce proof in class that you completed a take-home exercise as part of your participation grade.
 
 If you're worried about your participation grade, ask me **sooner rather than later** how you're doing and how you can improve. If you're engaged in this class and attend, there is no reason you won't get full marks.
 
@@ -87,7 +86,7 @@ You will need to bring your own laptop to class. If you do not own a laptop, ple
 
 This is a once-weekly class, so attendance is important. That said, I will not take attendance, _per se_. You will instead be graded on your participation in class.
 
-If you miss a class, you will get **zero participation points** for that session.
+If you miss a class, naturally, you will get **zero participation points** for that session.
 
 If you have a medical, family or other emergency that kept you from class, then you can make up 1 point if you earn 3 points the next session _and_ can demonstrate you've mastered the material you missed. You can do this at most once.
 
