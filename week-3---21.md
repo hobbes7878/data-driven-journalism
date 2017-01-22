@@ -6,6 +6,7 @@
 - Understand the basics of the Census and American Community Survey, how to access data collected by each and why it's so important for data journalists to use them
 
 ---
+## Before class
 
 ![](/assets/book.png)
 
@@ -41,3 +42,6 @@ Also please find the section in the Attorney General's [Public Information Handb
 
 ---
 
+## In class
+
+TK
