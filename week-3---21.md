@@ -22,7 +22,7 @@
 
 ![](/assets/pencil.png)
 
-### Exercise
+#### Exercise:
 
 Look through Texas public records requests filed through [Muckrock](https://www.muckrock.com/foi/list/?page=1&per_page=100&jurisdiction=109), a non-profit site that hosts and shares open records requests. Choose one that was sent to a Texas government agency or other group that is subject to TPIA and be prepared to tell the story of that request in class. You should be able to answer these questions:
 - Who filed the request?
@@ -37,7 +37,7 @@ Look through Texas public records requests filed through [Muckrock](https://www.
 
 Also please find the section in the Attorney General's [Public Information Handbook](https://www.texasattorneygeneral.gov/files/og/publicinfo_hb.pdf) that you think is most relevant to whether the requested records are public records.
 
-**So that not everyone grabs the same request,** please post the name of the request you're picking on the #assignments channel in Slack. First come, first serve; and I may suggest alternatives for you.
+**So that not everyone grabs the same request,** please post the name of the request you're picking on the #assignments channel in Slack as early as you can. First come, first serve; and I may suggest alternatives if the one you pick doesn't have much depth/is kinda boring.
 
 
 ---
