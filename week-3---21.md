@@ -44,4 +44,29 @@ Also please find the section in the Attorney General's [Public Information Handb
 
 ## In class
 
-TK
+#### Agenda:
+- Introduce public records laws
+- Introduce public datasets
+
+![](/assets/discussion.png)
+
+#### Discussion
+
+- Intro to Texas Public Information Act and Federal Freedom of Information Act
+- MuckRock Texas records requests - student presentations
+- How to request electronic records and data from public agencies
+- How to find data
+- Sources of data
+
+---
+## Sources of data
+
+#### Public data portals
+
+- [Data and Statistics about the United States](https://www.usa.gov/statistics)
+- [Texas Data Portal](https://data.texas.gov/)
+- [Dallas OpenData](https://www.dallasopendata.com/)
+
+#### The U.S. Census Bureau
+
+- [American FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/guided_search.xhtml)
