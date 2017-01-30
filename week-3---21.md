@@ -69,4 +69,5 @@ Also please find the section in the Attorney General's [Public Information Handb
 
 #### The U.S. Census Bureau
 
+- [Journalists' Guide to the American Community Survey](https://github.com/ryanpitts/journalists-guide-datasets/blob/master/datasets/american_community_survey.md)
 - [American FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/guided_search.xhtml)
