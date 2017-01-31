@@ -11,7 +11,7 @@
 #### Required reading:
 
 * [Data journalists are the new punks](https://www.youtube.com/watch?v=h2zbvmXskSE) Simon Rogers - 10 mins.
-* [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) Quartz. Skim it. - 10 minutes
+* [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) Quartz. Skim it. - 10 mins.
 
 ##### Excel skills
 
@@ -30,8 +30,10 @@ Pick a publicly available dataset from a Texas municipal or state agency website
 
 - Who collected this data?
 - What does the agency use this data for, i.e., why do they collect it?
-- How many records are in the dataset?
+- When is the data collected?
 - What time span does the data cover?
+- How many records are in the dataset?
+- What does a single record represent in the data?
 - Describe each column of the dataset, individually:
     - What data is in this column?
     - What _kind_ of data does it contain, e.g., character strings, numbers, dates, etc.?

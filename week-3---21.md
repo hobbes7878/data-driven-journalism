@@ -47,6 +47,7 @@ Also please find the section in the Attorney General's [Public Information Handb
 #### Agenda:
 - Introduce public records laws
 - Introduce public datasets
+- Install party! [Sublime Text editor](https://www.sublimetext.com/)
 
 ![](/assets/discussion.png)
 
@@ -59,6 +60,12 @@ Also please find the section in the Attorney General's [Public Information Handb
 - Sources of data
 
 ---
+
+## How to find data
+- Who studies the topic? Read their research. What datasets do they reference?
+- Know what agency oversees your topic? Call and ask for a list of their publicly available reports.
+- **ASK MORE QUESTIONS**
+
 ## Sources of data
 
 #### Public data portals
