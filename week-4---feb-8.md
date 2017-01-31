@@ -11,7 +11,7 @@
 #### Required reading:
 
 * [Data journalists are the new punks](https://www.youtube.com/watch?v=h2zbvmXskSE) Simon Rogers - 10 mins.
-* [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) Quartz. Just skim this one. - 10 minutes
+* [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) Quartz. Skim it. - 10 minutes
 
 ##### Excel skills
 
@@ -28,16 +28,20 @@ If you are unfamiliar with the following operations in Microsoft Excel, go throu
 
 Pick a publicly available dataset from a Texas municipal or state agency website. (Preferably one that actually interests you.) Download it and open it in Excel. Begin a **"data diary"** about your dataset. You should answer as many of the following questions in your data diary as apply to your data.
 
-- Who collected this data and what do they use it for?
-- 
+- Who collected this data?
+- What does the agency use this data for, i.e., why do they collect it?
 - How many records are in the dataset?
-- 
+- What time span does the data cover?
 - Describe each column of the dataset individually:
-    - What kind of data does it contain, e.g., character strings, numbers, currency, dates, etc.?
-    - What if any codes are used in this column and what do they describe?
+    - What data is in this column?
+    - What kind of data does it contain, e.g., character strings, numbers, dates, etc.?
+    - If the column contains numeric data, what is the maximum and minimum value in the column? What's the average?
+    - What if any codes are used in this column and what do they mean?
+- Using Quartz's guide, what elements of "bad data" do you see in this dataset, if any?
+
     
 ### Important: 
-Data diaries are due by noon Tuesday. Please send them to me via Slack.
+Data diaries are due by **noon Tuesday**. Please send them to me via Slack in the #assignments channel.
 
 ---
 
