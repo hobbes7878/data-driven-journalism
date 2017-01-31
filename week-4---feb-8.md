@@ -32,9 +32,9 @@ Pick a publicly available dataset from a Texas municipal or state agency website
 - What does the agency use this data for, i.e., why do they collect it?
 - How many records are in the dataset?
 - What time span does the data cover?
-- Describe each column of the dataset individually:
+- Describe each column of the dataset, individually:
     - What data is in this column?
-    - What kind of data does it contain, e.g., character strings, numbers, dates, etc.?
+    - What _kind_ of data does it contain, e.g., character strings, numbers, dates, etc.?
     - If the column contains numeric data, what is the maximum and minimum value in the column? What's the average?
     - What if any codes are used in this column and what do they mean?
 - Using Quartz's guide, what elements of "bad data" do you see in this dataset, if any?
