@@ -106,7 +106,7 @@ Disorganized data that can not be immediately constructed into a table. Think of
 
 ### "Tidy" data
 
-[Tidy data](ftp://cran.r-project.org/pub/R/web/packages/tidyr/vignettes/tidy-data.html) represents a specific kind of structured data. As an example, take a look at our dog table again, above.
+[Tidy data](ftp://cran.r-project.org/pub/R/web/packages/tidyr/vignettes/tidy-data.html) represents a specific kind of structured data. As an example, take a look at our dog table again.
 
 We can separate that data into three types: **observations**, **variables** and **values**.
 
@@ -116,10 +116,43 @@ We can separate that data into three types: **observations**, **variables** and 
 
 **Values** represent the actual categorical or numeric data recorded for each dog. Short hair for Chihuahua. 12-year lifespan for a Poodle.
 
-Tidy data is any data table where the variables are always in columns and the observations are always in rows and values are always at the intersection of the two, just like our dog table.
+**Rule:** Tidy data is any data where the variables are always in columns and the observations are always in rows and values are always at the intersection of the two, just like our dog table.
+
+| Breed     | Hair  | Lifespan |
+|-----------|-------|----------|
+| Poodle    | Long  | 12       |
+| Chihuahua | Short | 17       |
+
+
 
 ### "Untidy" data
 
-Untidy data is any tabular data that is not tidy according to our rule above. For example:
+Untidy data is any tabular data that is not "tidy" according to our rule above. For example, here's table of health statistics for the average American man and woman:
+
+|        | Men  | Women |
+|--------|------|-------|
+| Height | 5'9" | 5'4"  |
+| Weight | 196  | 166.2 |
+
+In this case, our table shows the variables Height and Weight, which are rows. But it doesn't show a third variable, Gender. Men and Women are actually **values** of Gender, which are cast as columns in the table. Values as columns, variables as rows? This data is untidy.
+
+
+Fortunately, most untidy data can be tidied up by manipulating the data a little. This is the same health data as above, only transposed into a tidy format:
+
+| Gender | Height | Weight |
+|--------|--------|--------|
+| Men    | 5'9"   | 196    |
+| Women  | 5'4"   | 166.2  |
+
+#### How to spot untidy data
+Watch out for data tables that aren't "square" or that you can't read left-to-right.
+
+
+#### Why is tidy data so important?
+
+Tidy data is "machine-readable," meaning it's a format computers understand. That's important because we use our computers and code to manipulate our data to answer the questions we ask of it. Tidy data is a language we can share.
+
+
+
 
 
