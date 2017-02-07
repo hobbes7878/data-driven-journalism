@@ -48,10 +48,8 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 ---
 
 ## In class
-
+- Learn data terms and taxonomy
 ---
-
-## Terminology
 
 ### Kinds of Data
 
@@ -81,20 +79,25 @@ Continuous data represent an infinite (or practically infinite) set of possible 
 ---
 ### Data types
 
-#### String
-A "string" or characters. Your name is a string.
+| Type  | Description  |
+|---|---|
+|String   | A "string" or characters. Your name is a string.|
+| Integer  | A whole number like 4 and 5.  |
+| Float / Decimal  | A decimal number like 4.3 or 5.2.  |
+|  Date / Datetime | A numeric representation of a date or a date and a time.  |
+|Boolean   | A true or false value.  |
 
-#### Integer
-A whole number like 4 and 5.
+---
+### Data structures
 
-#### Floating point number / Float / Decimal
-A decimal number like 4.3 or 5.2.
+#### Structured data
+Highly organized data. Basically data than can be constructed into a tabular (table-like) structure. Think of an Excel table like the one below where every row (or **observation**) shares the same columns (or **variables**).
 
-#### Date / Datetime
-A numeric representation of a date or a date and a time.
+| Breed     | Hair  | Lifespan |
+|-----------|-------|----------|
+| Poodle    | Long  | 12       |
+| Chihuahua | Short | 17       |
 
-#### Boolean
-A true or false value.
-
-
+#### Unstructured data
+Disorganized data that can not be immediately constructed into a table. Think of a cache of documents, each has its own pieces of data unique to each document that aren't shared between documents.
 
