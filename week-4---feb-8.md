@@ -113,7 +113,7 @@ We can separate that data into three types: **observations**, **variables** and 
 
 **Values** represent the actual categorical or numeric data recorded for each dog. Short hair for Chihuahua. 12-year lifespan for a Poodle.
 
-**Rule:** Tidy data is any data where the variables are always in columns and the observations are always in rows and values are always at the intersection of the two, just like our dog table.
+**Rule:** Tidy data is any data where the variables are always structured as columns, the observations are always structured as rows and values are always at the intersection of the two, just like our dog table.
 
 | Breed     | Hair  | Lifespan |
 |-----------|-------|----------|
@@ -194,5 +194,6 @@ Why do you need to know this? Sometimes characters don't translate well between 
 
 ---
 
-# Excel Basics
 ![](https://lh3.ggpht.com/GkNfqm17WFuzaIR87_oz690ErF63hL08Ngj73QtDxyWlCOF80d2gWd2GHrPLJJ-YmHYS=w300)
+
+# Excel Basics
