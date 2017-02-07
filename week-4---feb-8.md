@@ -108,7 +108,7 @@ Disorganized data that can not be immediately constructed into a table. Think of
 
 ### "Tidy" data
 
-[Tidy data](ftp://cran.r-project.org/pub/R/web/packages/tidyr/vignettes/tidy-data.html) represents a specific kind of structured data. As an example, take a look at our dog table again.
+[Tidy data](ftp://cran.r-project.org/pub/R/web/packages/tidyr/vignettes/tidy-data.html) represents structured data formatted in a specific way. As an example, take a look at our dog table again.
 
 We can separate that data into three structural components: **observations**, **variables** and **values**.
 
@@ -136,8 +136,9 @@ Untidy data is any tabular data that is not "tidy" according to our rule above. 
 | Height | 5'9" | 5'4"  |
 | Weight | 196  | 166.2 |
 
-In this case, our table shows the variables Height and Weight, which are rows. But it doesn't show a third variable, Gender. Men and Women are actually **values** of Gender, which are cast as columns in the table. Values as columns, variables as rows? This data is untidy.
+In this case, our table shows the variables Height and Weight, which are rows. But it doesn't show a third variable, Gender. Men and Women are actually **values** of Gender, which are structured as columns in the table.
 
+Values as columns, variables as rows? This data is **untidy**.
 
 Fortunately, most untidy data can be tidied up by manipulating the data a little. This is the same health data as above, only transposed into a tidy format:
 
@@ -149,10 +150,9 @@ Fortunately, most untidy data can be tidied up by manipulating the data a little
 #### How to spot untidy data
 Watch out for data tables that aren't "square" or that you can't read left-to-right.
 
-
 #### Why is tidy data so important?
 
-Tidy data is "machine-readable," meaning it's a format computers understand. That's important because we use our computers and code to manipulate our data to answer the questions we ask of it. Tidy data is a language we can share.
+Tidy data is "machine-readable," meaning it's a format computers understand. That's important because we use code to manipulate our data to answer the questions we ask of it. Tidy data is a language we can share.
 
 
 ---
