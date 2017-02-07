@@ -47,5 +47,37 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 
 ---
 
+## In class
+
+
+### Terminology and Types of Data
+
+#### Qualitative
+Qualitative data represent categorical values like the color of people's eyes or the make and model of automobiles.
+
+This data always represents **discrete** values, meaning you are either one or the other type (whatever "type" means in your data), nothing in between.
+
+
+#### Quantitative
+Quantitative data represent numeric data like the temperature yesterday or your annual salary.
+
+#### Discrete
+
+Discrete data represent a limited set of possible values that data can take.
+
+- **All** qualitative data is discrete. Your eyes are either blue or green or brown.
+- **Some** quantitative data is discrete. Your car engine has either 4 cylinders or 6 or 8.
+
+#### Continuous
+
+Continuous data represent an infinite (or practically infinite) set of possible values that data can take.
+
+- **No** qualitative data is continuous.
+- **Some** quantitative data is continuous. The temperature is 55 degrees, or it can be 55.5 or 55.55 or 55.555
+
+
+
+
+
 
 
