@@ -48,7 +48,8 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 ---
 
 ## In class
-- Learn data terms and taxonomy
+- Learn data terms, taxonomy and structures
+- Open data in Excel
 ---
 
 ### Kinds of Data
@@ -153,6 +154,20 @@ Watch out for data tables that aren't "square" or that you can't read left-to-ri
 Tidy data is "machine-readable," meaning it's a format computers understand. That's important because we use our computers and code to manipulate our data to answer the questions we ask of it. Tidy data is a language we can share.
 
 
+---
 
+## Types of data files
 
+Data is stored in files. These are their stories.
 
+#### Common file types
+
+| File type                  | Extension    | Description                                                  |
+|----------------------------|--------------|--------------------------------------------------------------|
+| Excel                      | .xls / .xlsx | An MS Excel workbook                                         |
+| Text file                  | .txt         | A plain text file, can be fixed width or character separated |
+| Comma-separated value file | .csv         | "Tidy" columns separated by commas                           |
+| Tab-separated value file   | .tsv         | "Tidy" columns separated by tabs                             |
+
+#### Which is best?
+The CSV is the "gold standard" of data. When you can get your data this way, you should.
