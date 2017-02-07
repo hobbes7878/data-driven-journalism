@@ -1,6 +1,4 @@
-# Structuring data
-
-##### Course goals
+# Data structures
 
 ---
 
