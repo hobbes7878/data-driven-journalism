@@ -17,5 +17,6 @@
 
 - Complete the [Markdown tutorial](http://www.markdowntutorial.com/)
 - Convert the data diary you wrote last week into Markdown format (Re-save it as a `diary.md` file)
+- Add to your new Markdown file
 
 ---
