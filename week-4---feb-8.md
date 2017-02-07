@@ -49,8 +49,11 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 
 ## In class
 
+---
 
-### Terminology and Types of Data
+## Terminology
+
+### Kinds of Data
 
 #### Qualitative
 Qualitative data represent categorical values like the color of people's eyes or the make and model of automobiles.
@@ -76,8 +79,22 @@ Continuous data represent an infinite (or practically infinite) set of possible 
 - **Some** quantitative data is continuous. The temperature is 55 degrees, or it can be 55.5 or 55.55 or 55.555
 
 
+### Data types
 
+#### String
+A "string" or characters. Your name is a string.
 
+#### Integer
+A whole number like 4 and 5.
+
+#### Floating point number / Float / Decimal
+A decimal number like 4.3 or 5.2.
+
+#### Date / Datetime
+A numeric representation of a date or a date and a time.
+
+#### Boolean
+True or False
 
 
 
