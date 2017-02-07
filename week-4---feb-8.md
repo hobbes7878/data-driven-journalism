@@ -48,7 +48,12 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 ## In class
 - Learn data terms, taxonomy and structures
 - Practice some basic data manipulation in Excel
-- Install party [DB Browser for SQLite](http://sqlitebrowser.org/)
+
+**Install party** 
+- [DB Browser for SQLite](http://sqlitebrowser.org/)
+- [SublimeText package manager](https://packagecontrol.io/installation)
+- [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
+
 ---
 
 ### Kinds of Data
