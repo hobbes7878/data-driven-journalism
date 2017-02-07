@@ -156,18 +156,43 @@ Tidy data is "machine-readable," meaning it's a format computers understand. Tha
 
 ---
 
-## Types of data files
+## Data storage
 
-Data is stored in files. These are their stories.
+
 
 #### Common file types
 
-| File type                  | Extension    | Description                                                  |
-|----------------------------|--------------|--------------------------------------------------------------|
-| Excel                      | .xls / .xlsx | An MS Excel workbook                                         |
-| Text file                  | .txt         | A plain text file, can be fixed width or character separated |
-| Comma-separated value file | .csv         | "Tidy" columns separated by commas                           |
-| Tab-separated value file   | .tsv         | "Tidy" columns separated by tabs                             |
+| File type                  | Extension    |
+|----------------------------|--------------|
+| Excel                      | .xls / .xlsx |
+| Text file                  | .txt         |
+| Comma-separated value file | .csv         |
+| Tab-separated value file   | .tsv         |
 
-#### Which is best?
-The CSV is the "gold standard" of data. When you can get your data this way, you should.
+- #### Which is best?
+CSV is the "gold standard" of data. When you can get your data this way, you should.
+
+
+
+### "Delimiting" data
+
+- #### Fixed-width
+
+Data separated by white space, limited at horizontal character positions.
+
+![](http://blog.scribesoft.com/wp-content/uploads/2013/11/Fixed.png)
+
+
+
+- #### Character-separated
+
+Data separated by specific characters, often a comma or a pipe.
+
+![](http://www.howtogeek.com/wp-content/uploads/2010/07/507x277ximage126.png.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.6KErtxFUf7.png)
+
+### Encoding
+
+Computers have different ways to represent letters, numbers, punctuation and other symbols. We call these encodings because they are a way of mapping codes a computer understands to a specific character that we understand.
+
+Why do you need to know this? Sometimes characters don't translate well between encodings and you end up [garbled text](https://github.com/Quartz/bad-data-guide#text-is-garbled) in your data like this: ���.
+
