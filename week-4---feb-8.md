@@ -86,12 +86,13 @@ Continuous data represent an infinite (or practically infinite) set of possible 
 | Float / Decimal  | A decimal number like 4.3 or 5.2.  |
 |  Date / Datetime | A numeric representation of a date or a date and a time.  |
 |Boolean   | A true or false value.  |
+|Null |A value that represents no value |
 
 ---
 ### Data structures
 
 #### Structured data
-Highly organized data. Basically data than can be constructed into a tabular (table-like) structure. Think of an Excel table like the one below where every row (or **observation**) shares the same columns (or **variables**).
+Highly organized data. Basically data than can be constructed into a table. Think of an Excel table like the one below where every row shares the same columns of data.
 
 | Breed     | Hair  | Lifespan |
 |-----------|-------|----------|
@@ -100,4 +101,25 @@ Highly organized data. Basically data than can be constructed into a tabular (ta
 
 #### Unstructured data
 Disorganized data that can not be immediately constructed into a table. Think of a cache of documents, each has its own pieces of data unique to each document that aren't shared between documents.
+
+---
+
+### "Tidy" data
+
+[Tidy data](ftp://cran.r-project.org/pub/R/web/packages/tidyr/vignettes/tidy-data.html) represents a specific kind of structured data. As an example, take a look at our dog table again, above.
+
+We can separate that data into three types: **observations**, **variables** and **values**.
+
+**Variables** represent each _kind_ of data the dataset has values for. The columns of the dog table are our variables: breed, hair and lifespan. (They're called variables because the values they represent _vary_.)
+
+**Observations** represent each particular example we have data for. The rows of our dogs table are our observations. Each row is a separate dog for which we have several data attributes recorded in our table. (You can imagine a biologist observing each dog to collect its data.)
+
+**Values** represent the actual categorical or numeric data recorded for each dog. Short hair for Chihuahua. 12-year lifespan for a Poodle.
+
+Tidy data is any data table where the variables are always in columns and the observations are always in rows and values are always at the intersection of the two, just like our dog table.
+
+### "Untidy" data
+
+Untidy data is any tabular data that is not tidy according to our rule above. For example:
+
 
