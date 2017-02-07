@@ -105,7 +105,7 @@ Disorganized data that can not be immediately constructed into a table. Think of
 
 [Tidy data](ftp://cran.r-project.org/pub/R/web/packages/tidyr/vignettes/tidy-data.html) represents a specific kind of structured data. As an example, take a look at our dog table again.
 
-We can separate that data into three types: **observations**, **variables** and **values**.
+We can separate that data into three structural components: **observations**, **variables** and **values**.
 
 **Variables** represent each _kind_ of data the dataset has values for. The columns of the dog table are our variables: breed, hair and lifespan. (They're called variables because the values they represent _vary_.)
 
