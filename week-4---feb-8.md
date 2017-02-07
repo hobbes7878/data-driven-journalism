@@ -78,7 +78,7 @@ Continuous data represent an infinite (or practically infinite) set of possible 
 - **No** qualitative data is continuous.
 - **Some** quantitative data is continuous. The temperature is 55 degrees, or it can be 55.5 or 55.55 or 55.555
 
-
+---
 ### Data types
 
 #### String
@@ -94,7 +94,7 @@ A decimal number like 4.3 or 5.2.
 A numeric representation of a date or a date and a time.
 
 #### Boolean
-True or False
+A true or false value.
 
 
 
