@@ -208,6 +208,8 @@ PDF's are **the worst** and among the most popular formats you'll see structured
 
 They were designed to create image perfect versions of documents, but making them perfectly readable for humans also means machines don't understand them. Excel can't read them; you can't load the data they contain into a database.
 
+Whenever you request data, specifically ask for your data in a machine-readable format like a spreadsheet so that you don't get the data in PDF format.
+
 #### PDF Extraction
 
 Tools like [Tabula](http://tabula.technology/) or services like [CometDocs](http://www.cometdocs.com/) are generally what's required to extract data from a PDF into something more structured like an Excel file or CSV.
