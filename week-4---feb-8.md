@@ -52,7 +52,7 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 **Install party** 
 - [DB Browser for SQLite](http://sqlitebrowser.org/)
 - [SublimeText package manager](https://packagecontrol.io/installation)
-- [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
+- [SublimeText Markdown Preview package](https://packagecontrol.io/packages/Markdown%20Preview)
 
 ---
 
