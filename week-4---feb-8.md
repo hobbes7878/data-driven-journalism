@@ -197,8 +197,24 @@ Computers have different ways to represent letters, numbers, punctuation and oth
 
 Why do you need to know this? Sometimes characters don't translate well between encodings and you end up [garbled text](https://github.com/Quartz/bad-data-guide#text-is-garbled) in your data like this: ���.
 
+
+
+## The dread data file
+
+![](https://cdn4.iconfinder.com/data/icons/CS5/128/ACP_PDF%202_file_document.png)
+
+
+PDF's are **the worst** and among the most popular formats you'll see structured data in.
+
+They were designed to create image perfect versions of documents, but that also means machines don't understand them. Excel can't read them, you can't load the data they contain into a database.
+
+### PDF Extraction
+
+Tools like [Tabula](http://tabula.technology/) or services like [CometDocs](http://www.cometdocs.com/) are generally what's required to extract data from a PDF into something more structured like an Excel file or CSV.
+
 ---
 
 ![](https://lh3.ggpht.com/GkNfqm17WFuzaIR87_oz690ErF63hL08Ngj73QtDxyWlCOF80d2gWd2GHrPLJJ-YmHYS=w300)
+
 
 # Excel Basics
