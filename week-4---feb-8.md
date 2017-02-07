@@ -49,7 +49,8 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 
 ## In class
 - Learn data terms, taxonomy and structures
-- Open data in Excel
+- Practice some basic data manipulation in Excel
+- Install party [DB Browser for SQLite](http://sqlitebrowser.org/)
 ---
 
 ### Kinds of Data
@@ -196,3 +197,7 @@ Computers have different ways to represent letters, numbers, punctuation and oth
 
 Why do you need to know this? Sometimes characters don't translate well between encodings and you end up [garbled text](https://github.com/Quartz/bad-data-guide#text-is-garbled) in your data like this: ���.
 
+---
+
+# Excel Basics
+![](https://lh3.ggpht.com/GkNfqm17WFuzaIR87_oz690ErF63hL08Ngj73QtDxyWlCOF80d2gWd2GHrPLJJ-YmHYS=w300)
