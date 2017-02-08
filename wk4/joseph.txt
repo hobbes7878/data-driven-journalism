@@ -1,0 +1,36 @@
+
+https://data.austintexas.gov/Public-Safety/Racial-Profiling-Dataset-2015-Arrests/vykk-upaj
+
+Who collected this data?
+	Austin City Police
+What does the agency use this data for, i.e., why do they collect it?
+	To better understand racial policing
+When is the data collected?
+	During the year of 2015
+What time span does the data cover?
+	Jan 1, 2015 to Dec. 14 2015
+How many records are in the dataset?
+	110,848
+What does a single record represent in the data?
+	A single police stop
+
+Column Meanings
+Cititation- Ticket Number
+Off form Date- Date citiation given
+Off Time- Time of day
+Race Origin code- What race the suspect was
+Case Party Sex- Party Male or Female
+Reason for stop- CODE
+					1	Violation of transportation code/vehicle laws 2	Violation of penal code 3	Consent of interview 4	Suspicious person 5	Call for service 6	Pre-existing knowledge 7	Specific detail 8	Other 9	Violation of city ordinance 10	Outstanding warrant
+Race known- Was race known before stop
+VL Street Name- Where did stop occure
+MSearch Y/M-
+MSearch Type- CODE
+					1	Frisk for safety 2	Consent 3	Probable cause 4	Contraband/evidence in plain view 5	Towing of motor vehicle 6	Arrest of person in vehicle
+MSearch Found- CODE
+					1	Weapons 2	Cash 3	Alcohol 4	Other 5	Nothing 6	Drugs
+
+Most common reason for a stop is Violation of transportation code
+Most common type of search is for Probable cause. Most commonly these result in finding nothing. 
+
+I dont see anything from the bad data list in here. 

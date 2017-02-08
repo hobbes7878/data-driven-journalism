@@ -1,0 +1,28 @@
+Data Diary: Texas Child Population by County
+1. Who collected this data?
+	Texas Department of Family and Protective Services, Population Estimates and Projections Program, Texas State Data Center, Office of the State Demographer and the Institute for Demographic and Socioeconomic Research, The University of Texas at San Antonio
+2. Why do they collect this data/what do they use it for?
+	Children ages 0-17 are at highest risk for negelect or abuse. This data divides the child population by county, and by percentage of each county in order to generally understand where their services are needed.
+3. When is this dataset collected?
+	The information is not given, however it appears to use Population and Projection Data at the end of each year, starting in 2015.
+4. What time span does the data cover?
+	Updated on Jan. 28, 2017, but goes as far back as Jan. 2008.
+5. How many records are in the dataset?
+	There are 2286 records in the data.
+6. What does a single record represent in the data?
+	A single record represents the total population of children,the percentage of the total poulation that are children, and the total population of a certain region and county of Texas in a certain year.
+7.Describe each column
+	Column A: Year
+		This column describes the year in which the numbers apply. It contains dates, which are numerical, but behave more like qualitative data because it is discrete.
+	Column B: County
+		This column describes the county in which the numbers apply. This data is qualitative and discrete.
+	Column C: Region
+		This column describes the region in which the numbers apply. This data is qualitative and discrete.
+	Column D: Child Population
+		This column provides the population of children in the specified county and year. The maximum value in this column is 1,210,241. The minimum is 3. The average value is 27,537.27. This data is discreet because you can't have a fraction of a child. 
+	Column E: % of Children in Total Population
+		This is quantitative, continuous data. It provides the percentage of children out of the total population in a given county and region in Texas during a specific year. The maximum value is 35.60%. The minimum value is 5.20%. The average value is 24.22%. 
+	Column F: Total Population
+		This data represents the total population of people in a specific county in a specific region in Texas during a specific year. It is quantitative and discreet, because you can't have a fraction of a person. The maximum value is 4,551,437. The minimum value is 57. The average value is 103,129.58. 
+8. Elements of "bad data"
+	There do not appear to be any elements of bad data as depicted in the Quartz guide.

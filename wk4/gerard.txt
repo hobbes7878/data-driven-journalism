@@ -1,0 +1,9 @@
+https://data.texas.gov/Transportation/GTFS-June-2016/hmh7-7zmg
+
+Capitol Metro Collected this Data
+The Agency uses this data so they can actually record the fixed transit routes used by all MetroBus lines and MetroRail lines
+It spans over 9 months and the metadata was just updated
+14 items
+it ranges from the agengcy to the fares to the stops and stop times
+When I open then they give me a link and the link i broken
+The elements of bad data I see are that the data does not work, and there is minimal info about anything about the dataset

@@ -1,0 +1,46 @@
+Data Diary - Feb 7, 2017
+https://data.texas.gov/Social-Services/APS-Outcomes-Recidivism-County-Table/fhx8-fyu2
+Who collected this data?
+	Texas Department of Family and Protective Services.
+What does the agency use this data for, i.e., why do they collect it?
+	To measure recidivism rates in Texas and to compare rates in each county.
+When is the data collected?
+	April 21, 2016
+What time span does the data cover?
+	2008-2015
+How many records are in the dataset?
+	2,020
+What does a single record represent in the data?
+	The number of perpetrators that have recidivated in a year in each Texas county.
+Describe each column of the dataset, individually:
+		Fiscal Year
+	What data is in this column?
+		The year in which the recidivism rates were collected.
+	What kind of data does it contain, e.g., character strings, numbers, dates, etc.?
+		Dates, shown as a year.
+	If the column contains numeric data, what is the maximum and minimum value in the column? What's the average?
+		Data is not numeric.
+	What if any codes are used in this column and what do they mean?
+		No codes are used.
+Describe each column of the dataset, individually:
+		County
+	What data is in this column?
+		The Texas county in which the rates were found.
+	What kind of data does it contain, e.g., character strings, numbers, dates, etc.?
+		Location names.
+	If the column contains numeric data, what is the maximum and minimum value in the column? What's the average?
+		Data is not numeric.
+	What if any codes are used in this column and what do they mean?
+		No codes are used. 
+Describe each column of the dataset, individually:
+		Recidivism
+	What data is in this column?
+		The number of perpetrators that have recidivated.
+	What kind of data does it contain, e.g., character strings, numbers, dates, etc.?
+		Numbers.
+	If the column contains numeric data, what is the maximum and minimum value in the column? What's the average?
+		Maximum: 1788 Minimum: 0 Average: 63
+	What if any codes are used in this column and what do they mean?
+		No codes are used.
+Using Quartz's guide, what elements of "bad data" do you see in this dataset, if any?
+	When downloading to Excel, the value "1-5" in the Recidivism column is presented as a date rather than a numeric value, causing incorrect calculations involving this value. 
