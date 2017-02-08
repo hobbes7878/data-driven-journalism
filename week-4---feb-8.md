@@ -155,6 +155,8 @@ Fortunately, most untidy data can be tidied up by manipulating the data a little
 | Men    | 5'9"   | 196    |
 | Women  | 5'4"   | 166.2  |
 
+Notice how this data has all the values of each variable in a single column. For example, all the values for Height are in the second column. The UNTIDY data, on the other hand, has values for Height across two columns.
+
 #### How to spot untidy data
 Watch out for data tables that aren't "square" or that you can't read left-to-right.
 
