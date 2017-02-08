@@ -43,6 +43,7 @@ Pick a publicly available dataset from a Texas municipal or state agency website
 ### Important: 
 Data diaries are due by **noon Tuesday**. Please send them to me via Slack in the #assignments channel.
 
+### Diaries
 - [Aaron](https://github.com/hobbes7878/data-driven-journalism/blob/master/wk4/aaron.txt)
 - [Amanda](https://github.com/hobbes7878/data-driven-journalism/blob/master/wk4/amanda.txt)
 - [Gerard](https://github.com/hobbes7878/data-driven-journalism/blob/master/wk4/gerard.txt)
