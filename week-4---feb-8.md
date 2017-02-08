@@ -228,3 +228,5 @@ Tools like [Tabula](http://tabula.technology/) or services like [CometDocs](http
 
 
 # Excel Basics
+
+Download [spreadsheet](https://github.com/hobbes7878/data-driven-journalism/raw/master/wk4/basics.xlsx).
