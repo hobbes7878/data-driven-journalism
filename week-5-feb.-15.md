@@ -1,4 +1,4 @@
-# Structured Data 2: Databases
+# Structured data, Part 2: Databases
 
 ---
 

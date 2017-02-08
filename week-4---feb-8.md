@@ -1,4 +1,4 @@
-# Structured Data 1: Spreadsheets
+# Structured data, Part 1: Spreadsheets
 
 ---
 
