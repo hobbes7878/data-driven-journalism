@@ -7,7 +7,7 @@
 * [Week 3 - Feb. 1](week-3---21.md)
 * [Week 4 - Feb. 8](week-4---feb-8.md)
 * [Week 5 - Feb. 15](week-5-feb.-15.md)
-* Week 6 - Feb. 22
+* [Week 6 - Feb. 22](week-6-feb.-22.md)
 * [Week 7 - Mar. 1](week-7-mar.-1.md)
 * [Week 8 - Mar. 8](week-8-mar.-8.md)
 * Week 9 - Mar. 22
