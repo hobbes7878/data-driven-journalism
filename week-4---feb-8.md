@@ -212,7 +212,7 @@ Why do you need to know this? Sometimes characters don't translate well between 
 ![](https://cdn4.iconfinder.com/data/icons/CS5/128/ACP_PDF%202_file_document.png)
 
 
-PDF's are **the worst** and among the most popular formats you'll see structured data in.
+PDF's are **the worst.** They are also among the most popular formats you'll see structured data kept in for the public.
 
 They were designed to create image perfect versions of documents, but making them perfectly readable for humans also means machines don't understand them. Excel can't read them; you can't load the data they contain into a database.
 
