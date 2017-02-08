@@ -15,9 +15,9 @@
 
 #### Exercise:
 
-- Complete the [Markdown tutorial](http://www.markdowntutorial.com/).
-- Convert the data diary you wrote last week into Markdown format (Re-save it as `diary.md`).
-- Add to your new Markdown file.
+- Complete this [Markdown tutorial](http://www.markdowntutorial.com/).
+- Convert the data diary you wrote last week into Markdown format (Re-save it as `diary.md`). Use this [Markdown syntax cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), if you need to.
+- Add to your new Markdown data diary.
     - Ask at least 3 questions of your dataset. (Think critically! Points lost for shallow, I'm-just-trying-to-complete-the-assignment questions.)
     - Use your basic Excel skills to answer them.
     - Record your questions, answers and the steps you took in your diary.
