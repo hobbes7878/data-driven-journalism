@@ -6,9 +6,9 @@
 
 2/1: Sources of data and public records laws
 
-2/8: Structured data with Microsoft Excel
+2/8: Structured Data 1: Spreadsheets
 
-2/15: Digging into databases
+2/15: Structured Data 2: Databases
 
 2/22: Just enough programming with Python, part 1
 

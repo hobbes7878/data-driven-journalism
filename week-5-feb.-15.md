@@ -1,4 +1,4 @@
-# Data in Databases
+# Structured Data 2: Databases
 
 ---
 
