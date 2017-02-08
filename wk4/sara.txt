@@ -1,0 +1,56 @@
+Dataset collected by Texas Departnment of Family and Protective Services.
+I assume DFPS uses the data to track which entities are violating which statutes, and especially the frequency and severity of violations.
+Data collected on inspections, so I would assume daily or close to daily.
+Data collected from June 2014 to present
+116,491 records in dataset
+Single record represents single violation; separate violations observed simultaneously are recorded separately
+Columns (12)
+	Operation ID
+	Activity ID
+	Section ID
+		All three of these columns have IDs which can be referenced in records
+		All three are numerical
+		all three have codes used to refer to activity and operations records to detail acutal location, name, etc.
+	Noncompliance ID
+		data: unique ID for dataset
+		kind: numbers
+		numeric: code; so average, maximum, minimum, etc. not relevant
+		codes: to identify individual noncompliance instances within the dataset
+	Standard number description
+		data: indicates standard number or and description for noncompliance record
+		kind: numbers and text
+		numeric: yes; max, min, avg not relevant
+		code: to refer to standard in legislation
+	Standard risk level
+		data: indicates risk level of the noncompliance
+		kind: text
+		numeric: no
+		code: not coded (severe, moderate, etc.)
+	Corrected at inspection
+		data: indicates whether noncompliance was corrected at inspection
+		kind: text
+		numeric: no
+		code: not codes; Y or N
+	Corrected date
+		data: indicates date when noncompliance was corrected at inspection
+		kind: numbers (text for AM/PM)
+		numeric: yes (is there a way to find averages for dates and times?)
+		code:not coded
+	Date correction verified
+		data: gives verification date for corrected noncompliance
+		kind: numbers, text for AM/PM
+		numeric: yes
+		code: not coded
+	Narrative
+		data: text explanation of each noncompliance encounter
+		kind: text
+		numeric: no
+		code: no
+	Technical assistance given
+		data: indicates whether technical assistance was given with regard to noncompliance
+		kind: text
+		numeric: no
+		code: no
+	A lot of cells were filled with x's but nothing else seemed off
+
+
