@@ -49,7 +49,7 @@ Data diaries are due by **noon Tuesday**. Please send them to me via Slack in th
 - [Gerard](https://github.com/hobbes7878/data-driven-journalism/blob/master/wk4/gerard.txt)
 - [Joseph](https://github.com/hobbes7878/data-driven-journalism/blob/master/wk4/joseph.txt)
 - [Mitchell](https://github.com/hobbes7878/data-driven-journalism/blob/master/wk4/mitchell.txt)
-- [Sara]()
+- [Sara](https://github.com/hobbes7878/data-driven-journalism/blob/master/wk4/sara.txt)
 
 ---
 
