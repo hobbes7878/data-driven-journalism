@@ -15,6 +15,7 @@
 
 #### Exercise:
 
+- Install [Atom](https://atom.io/) and the [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus) package (See instructions in Slack)
 - Complete this [Markdown tutorial](http://www.markdowntutorial.com/).
 - Convert the data diary you wrote last week into Markdown format (Re-save it as `diary.md`). Use this [Markdown syntax cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), if you need to.
 - Add to your new Markdown data diary.
