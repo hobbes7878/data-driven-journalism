@@ -35,6 +35,10 @@ You would answer those questions in **publishable English** like so:
 
 > The average salary for men and women is most different in the business school, where men earn $25,000 more on average than their female colleagues.
 
-You would document each step you took to arrive at that conclusion in your diary.
+You would document each step you took to arrive at that conclusion in your diary:
+
+> - Sorted data by school and gender columns
+- Calculated average by range of cells for each school by gender with formula `=AVERAGE(C2:C200)`
+- Compared averages by gender
 
 ---
