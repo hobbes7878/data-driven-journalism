@@ -44,3 +44,34 @@ You would document each step you took to arrive at that conclusion in your diary
 - Found the highest difference in the averages
 
 ---
+
+## In class
+- Install [DB Browser for SQLite](http://sqlitebrowser.org/) and setup a database
+- Learn basic SQL verbs and practice making your own queries
+
+---
+
+# Databases
+
+Up till now you've been viewing and manipulating data stored in spreadsheets via Microsoft Excel. Excel is a great, human-friendly tool for designing and manipulating data, but it's limited to a certain scale. Once you need data to be entered electronically rather than by hand or be easily accessible by other components like automatic reports or features on a website you need something designed more with a machine in mind.
+
+You need a database.
+
+Databases are simply collections of data stored in tables. Understanding how databases are constructed and queried is essential to being able to query large and complex datasets.
+
+### Database structure
+
+As for how databases are structured, we prefaced that discussion last week when we looked at Tidy Data. Data stored in tidy tables is exactly the . 
+
+A single database can include multiple related tables. 
+
+So if you can't use Excel to 
+
+# Enter the SQL
+
+SQL stands for _Structured Query Language_. _Query_ in this case means asking questions, and _structured language_ just means we have an established code for asking those questions. 
+
+
+```SQL
+
+```
