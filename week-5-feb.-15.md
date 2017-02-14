@@ -65,18 +65,31 @@ A database is simply a collection of data stored in tables. A database can have 
 
 We'll look at an example next, but to preface the discussion, think about the Tidy Data concept we looked at last week. Data stored in tidy tables is exactly the basic organizational structure of databases. You can think of a single data table as a tidy table. We only use slightly different terminology: Instead of talking about _columns_ and _rows_, we describe data tables in _fields_ and _records_. They are almost exactly equivalent. Fields, like columns, should represent variables. Records, like rows, represent observations.
 
-Consider a simple example:
+Let's look at that example:
 
 
+![](/assets/database_structure.png)
 
+Let's assume this database represents a store. Our store database consists of three separate tables: `Customers`, `Orders` and `Products`.
 
+Each of those tables has its own collection of fields related to the particular information that table stores.
 
+The `Orders` table has two special fields that relate records in the `Orders` table to records in the two other tables. Those fields join records across tables to create the complete information about any one sale at our store.
+
+Think this table through using practical example. Say Sally is a customer in our store. Her personal information would be stored in the `Customers` table. In that table Sally has at most one record. But Sally is a frequent customer of our store, so she has placed multiple orders, each of which would be an individual record in the `Orders` table. But say we are a specialty shop, and Sally is really only buying the same product each time she makes an order. That product would have just one record in the `Products` table.
+
+Multiply that structure by thousands or millions of individual sales, customers and products and you start to see the problem. We need a way to easily relate records across these three tables in order to answer even basic questions within our database.
 
 # Enter the SQL
 
-SQL stands for _Structured Query Language_. _Query_ in this case means asking questions, and _structured language_ just means we have an established code for asking those questions. 
+SQL stands for _Structured Query Language_. _Query_ in this case means asking questions, and _structured language_ just means we have an established way -- a code -- for asking those questions. 
+
+SQL is a code for querying a database to get only specific records we care about. It has very few parts, but in combination they 
 
 
 ```SQL
-
+SELECT
+last_name,
+first_name
+FROM "Customers";
 ```
