@@ -307,7 +307,7 @@ HAVING avg(age) > 40;
 Often, you'll want to create a new table in your database with the results of your query. You can do that using the **CREATE TABLE** statement like this:
 
 ```sql
-CREATE TABLE gender_avg_age as
+CREATE TABLE gender_avg_age AS
 SELECT
 gender,
 avg(age) as average
@@ -334,6 +334,7 @@ SELECT > FROM > WHERE > GROUP BY > HAVING > ORDER BY
 For example:
 
 ```sql
+CREATE TABLE my_new_table AS
 SELECT
 gender,
 avg(age) as average
@@ -344,7 +345,9 @@ HAVING average > 20 AND average < 40
 ORDER BY average
 ```
 
-**Pop Quiz:** Tell me in English what records the above query will get?
+**Test yourself:** Tell me in English what records the above query will get? What's a better name for `my_new_table`?
 
+---
+## Practicing SQL
 
-
+Download the Texas Education Agency's [Five-Year Extended Graduation and Dropout Data](http://tea.texas.gov/acctres/completion/2014/level_5yr.html) for the Class of 2014 from [here](http://tea.texas.gov/acctres/completion/2014/campus_download_5yr/).
