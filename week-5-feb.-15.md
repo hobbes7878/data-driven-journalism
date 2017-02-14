@@ -225,6 +225,16 @@ FROM Products;
 
 This query simply takes all the prices in our Products table and adds them together.
 
+Let's say we want to find out how many customers we have between 30 and 40 years old. We can use the aggregate function `count`:
+
+```sql
+SELECT
+count(*)
+FROM Customers
+WHERE age >= 30 AND age < 40;
+```
+Notice the asterisk inside count, which we use because we're not counting any particular field, but every record for a customer between 30 and 40.
+
 ##### Aliasing aggregate columns
 
 You can alias an aggregate column to give it a more descriptive name using **as**:
@@ -348,6 +358,22 @@ ORDER BY average
 **Test yourself:** Tell me in English what records the above query will get? What's a better name for `my_new_table`?
 
 ---
-## Practicing SQL
+## Practicing Basic SQL
 
 Download the Texas Education Agency's [Five-Year Extended Graduation and Dropout Data](http://tea.texas.gov/acctres/completion/2014/level_5yr.html) for the Class of 2014 from [here](http://tea.texas.gov/acctres/completion/2014/campus_download_5yr/).
+
+Open the file in Excel. Take a look at the Data Dictionary. Now save the wprksheet's third tab as a CSV.
+
+Import the CSV into SQLite.
+
+You'll need to modify your new table to change numeric columns from type TEXT to type NUMERIC as we go.
+
+### Answer the following questions using SQL:
+
+- Which campus had the highest graduation rate?
+- How many campuses had a graduation rate below 50 percent?
+- What was the maximum, minimum and average graduation rate in Dallas ISD? [Hint.](http://www.sqlite.org/lang_aggfunc.html)
+- Which districts had an average graduation rate below 50 percent?
+- What was the average female and male graduation rate by district?
+- Which district had the biggest difference in their male and female graduation rates? 
+    - _Hint: Takes two steps. Requires creating a table and querying it._
