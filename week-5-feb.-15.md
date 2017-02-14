@@ -362,7 +362,7 @@ ORDER BY average
 
 Download the Texas Education Agency's [Five-Year Extended Graduation and Dropout Data](http://tea.texas.gov/acctres/completion/2014/level_5yr.html) for the Class of 2014 from [here](http://tea.texas.gov/acctres/completion/2014/campus_download_5yr/).
 
-Open the file in Excel. Take a look at the Data Dictionary. Now save the wprksheet's third tab as a CSV.
+Open the file in Excel. Take a look at the Data Dictionary. Now save the worksheet's third tab as a CSV.
 
 Import the CSV into SQLite.
 
