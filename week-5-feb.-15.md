@@ -116,6 +116,15 @@ This query will produce a table of the last and first names of every customer in
 
 Notice that the field names we ask for in our SELECT statement are separated by a comma and that we always end our query with a semicolon.
 
+There's also a shortcut in the SELECT statement for requesting all the fields in a table. Simply use an asterisk:
+
+```sql
+SELECT *
+FROM Customers;
+```
+
+This query will give you back all the fields in the `Customers` table.
+
 ### WHERE
 
 SELECT and FROM are basic terms that every query needs, but we need something to filter records to make really useful queries.
@@ -134,6 +143,14 @@ Read this again: SELECT for me the `last_name` and `first_name` fields FROM the 
 
 Notice we put Sally's name in single quotes.
 
+We can also query numeric fields, like this query for all our adult customers:
+
+```sql
+SELECT *
+FROM Customers
+WHERE age >= 18;
+```
+
 ### AND/OR
 
 OK, but what if there are multiple Sally's in our database? We can use Sally's last name to refine our search:
@@ -146,7 +163,61 @@ FROM Customers
 WHERE first_name = 'Sally' AND last_name = 'Smith';
 ``` 
 
-### *
+Read that query. Does the AND term make sense? What would we get if changed that AND to an OR?
 
-So far
+##### Order of operations
+
+We can use parentheses to create an order of operations for more complex queries.
+
+for example, this query will capture Sally and all other adult customers:
+
+```sql
+SELECT
+first_name,
+last_name
+FROM Customers
+WHERE 
+   (first_name = 'Sally' AND last_name = 'Smith')
+   OR age >= 18;
+``` 
+
+
+
+### LIKE ... %/_
+
+What if we don't know Sally's full last name, but remember that it starts with an _S_?
+
+SQL lets you match on partial strings using what are called wildcard characters with the term LIKE.
+
+```sql
+SELECT
+first_name,
+last_name
+FROM Customers
+WHERE first_name = 'Sally' AND last_name LIKE 'S%';
+``` 
+
+The second part of our WHERE statement can be read as any last name that is an "S" followed by any number of other characters. So this query would pull `Sally Smith` and `Sally Sue`.
+
+You can put a wildcard in for only a certain number of characters like this:
+
+```sql
+SELECT
+first_name,
+last_name
+FROM Customers
+WHERE first_name = 'Sally' AND last_name LIKE 'Sm_th';
+``` 
+
+### Aggregating functions
+
+SQL has several useful aggregation functions that can help summarize the data in our table. Say we want to know how much it would cost to buy one of everything in our store, we could use the `sum` function.
+
+```sql
+SELECT
+sum(price)
+FROM Products
+```
+
+
 
