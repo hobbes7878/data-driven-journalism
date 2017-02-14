@@ -82,14 +82,71 @@ Multiply that structure by thousands or millions of individual sales, customers 
 
 # Enter the SQL
 
-SQL stands for _Structured Query Language_. _Query_ in this case means asking questions, and _structured language_ just means we have an established way -- a code -- for asking those questions. 
+SQL stands for _Structured Query Language_.
 
-SQL is a code for querying a database to get only specific records we care about. It has very few parts, but in combination they 
+_Query_ means asking questions, and _structured language_ just means we have an established way -- a code -- for asking those questions. 
 
+SQL is a code for querying a database to get only specific records we care about. It has very few parts, but in combination they are extremely powerful. 
 
-```SQL
+### A quick note from our sponsors about software...
+
+Databases are created and stored using software. There are many database programs. Some of the most popular open-source ones are PostgreSQL and MySQL. 
+
+We'll be using a simpler database engine called SQLite. We'll also be using DB Browser to interact with our SQLite database in a nicer environment.
+
+### SELECT ... FROM ...
+
+Every query starts with two specific terms: `SELECT` and `FROM`. 
+
+`FROM` says which table you want to get records from.
+`SELECT` says which _fields_ you want to view in that table as part of your query.
+
+A simple example from our store database:
+
+```sql
 SELECT
 last_name,
 first_name
-FROM "Customers";
+FROM Customers;
 ```
+
+You can almost read this query in English as though you were addressing your database directly: **SELECT** for me the `last_name` and `first_name` fields **FROM** the `Customers` table.
+
+This query will produce a table of the last and first names of every customer in our database.
+
+Notice that the field names we ask for in our SELECT statement are separated by a comma and that we always end our query with a semicolon.
+
+### WHERE
+
+SELECT and FROM are basic terms that every query needs, but we need something to filter records to make really useful queries.
+
+Let's say we wanted to only get the record from the `Customers` table for our regular customer Sally. We could write a query using the term WHERE to do just that.
+
+```sql
+SELECT
+first_name,
+last_name
+FROM Customers
+WHERE first_name = 'Sally';
+``` 
+
+Read this again: SELECT for me the `last_name` and `first_name` fields FROM the `Customers` table **WHERE** the first name of the customer is Sally.
+
+Notice we put Sally's name in single quotes.
+
+### AND/OR
+
+OK, but what if there are multiple Sally's in our database? We can use Sally's last name to refine our search:
+
+```sql
+SELECT
+first_name,
+last_name
+FROM Customers
+WHERE first_name = 'Sally' AND last_name = 'Smith';
+``` 
+
+### *
+
+So far
+
