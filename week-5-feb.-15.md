@@ -88,11 +88,15 @@ _Query_ means asking questions, and _structured language_ just means we have an 
 
 SQL is a code for querying a database to get only specific records we care about. It has very few parts, but in combination they are extremely powerful. 
 
-### A quick note from our sponsors about software...
+### A quick note from our sponsors about software
 
 Databases are created and stored using software. There are many database programs. Some of the most popular open-source ones are PostgreSQL and MySQL. 
 
 We'll be using a simpler database engine called SQLite. We'll also be using DB Browser to interact with our SQLite database in a nicer environment.
+
+---
+## SQL Syntax
+
 
 ### SELECT ... FROM ...
 
@@ -216,8 +220,49 @@ SQL has several useful aggregation functions that can help summarize the data in
 ```sql
 SELECT
 sum(price)
-FROM Products
+FROM Products;
 ```
 
+This query simply takes all the prices in our Products table and adds them together.
+
+##### Aliasing aggregate columns
+
+You can alias an aggregate column to give it a more descriptive name using **as**:
+
+```sql
+SELECT
+sum(price) as total
+FROM Products;
+```
+
+
+
+### GROUP BY
+
+Aggregating functions can also be applied to groups of our data. Say we want to know the average age of men and women customers in our store. We can use a **GROUP BY** statement to apply the average to each group individually like this:
+
+```sql
+SELECT
+gender,
+avg(age) as average
+FROM Customers
+GROUP BY gender;
+```
+
+If you were grouping by multiple columns, you should separate each column name with a comma, just like in the SELECT statement.
+
+##### Positional references
+
+As a shortcut, you can use a positional reference to the column in the SELECT statement in the GROUP BY:
+
+```sql
+SELECT
+gender,
+avg(age) as average
+FROM Customers
+GROUP BY 1;
+```
+
+That query simply says GROUP BY the **first** column in my SELECT statement.
 
 
