@@ -372,8 +372,9 @@ You'll need to modify your new table to change numeric columns from type TEXT to
 
 - Which campus had the highest graduation rate?
 - How many campuses had a graduation rate below 50 percent?
-- What was the maximum, minimum and average graduation rate in Dallas ISD? [Hint.](http://www.sqlite.org/lang_aggfunc.html)
-- Which districts had an average graduation rate below 50 percent?
+- What was the maximum, minimum and average graduation rate in Dallas ISD? 
+    - See _[SQLite aggregate functions](http://www.sqlite.org/lang_aggfunc.html)_
+- Which districts had an average graduation rate below 50 percent? Filter out bad data.
 - What was the average female and male graduation rate by district?
 - Which district had the biggest difference in their male and female graduation rates? 
-    - _Hint: Takes two steps. Requires creating a table and querying it._
+    - _Hint: Takes two steps._
