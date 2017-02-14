@@ -253,7 +253,7 @@ If you were grouping by multiple columns, you should separate each column name w
 
 ##### Positional references
 
-As a shortcut, you can use a positional reference to the column in the SELECT statement in the GROUP BY:
+As a shortcut, you can use a positional reference to the column in the SELECT statement in the GROUP BY clause:
 
 ```sql
 SELECT
@@ -263,6 +263,88 @@ FROM Customers
 GROUP BY 1;
 ```
 
-That query simply says GROUP BY the **first** column in my SELECT statement.
+That query simply says GROUP BY the **first** column in my SELECT statement. 
+
+### ORDER BY
+
+Once you have the results of your query, you can order your table for easier viewing using **ORDER BY**. For example, you can sort your customer list by age, youngest to oldest, like this:
+
+```sql
+SELECT
+first_name,
+last_name,
+age
+FROM Customers
+ORDER BY age -- Can also use positional here: ORDER BY 3
+```
+
+If you'd prefer to sort oldest to youngest, or descending order, simply add `desc`:
+```sql
+SELECT
+first_name,
+last_name,
+age
+FROM Customers
+ORDER BY age desc
+```
+
+
+### HAVING
+
+You can filter your results by the product of an aggregation using **HAVING**. This query will return the gender _having_ an average age over 40:
+
+```sql
+SELECT
+gender,
+avg(age) as average
+FROM Customers
+GROUP BY 1
+HAVING avg(age) > 40;
+```
+
+### CREATE / DROP TABLE
+
+Often, you'll want to create a new table in your database with the results of your query. You can do that using the **CREATE TABLE** statement like this:
+
+```sql
+CREATE TABLE gender_avg_age as
+SELECT
+gender,
+avg(age) as average
+FROM Customers
+GROUP BY 1;
+```
+
+To delete a table, use the **DROP TABLE** with the name of the table to delete:
+
+```sql
+DROP TABLE gender_avg_age;
+```
+
+
+
+### Putting it all together!
+
+You can combine any of these terms to create complex queries.
+
+The order of the terms is important, though, so follow this order for each of the terms you use:
+
+SELECT > FROM > WHERE > GROUP BY > HAVING > ORDER BY
+
+For example:
+
+```sql
+SELECT
+gender,
+avg(age) as average
+FROM Customers
+WHERE last_name LIKE 'S%' OR first_name = 'Sally'
+GROUP BY 1
+HAVING average > 20 AND average < 40
+ORDER BY average
+```
+
+**Pop Quiz:** Tell me in English what records the above query will get?
+
 
 
