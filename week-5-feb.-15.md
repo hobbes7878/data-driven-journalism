@@ -53,19 +53,22 @@ You would document each step you took to arrive at that conclusion in your diary
 
 # Databases
 
-Up till now you've been viewing and manipulating data stored in spreadsheets via Microsoft Excel. Excel is a great, human-friendly tool for designing and manipulating data, but it's limited to a certain scale. Once you need data to be entered electronically rather than by hand or be easily accessible by other components like automatic reports or features on a website you need something designed more with a machine in mind.
+Up till now you've been viewing and manipulating data stored in spreadsheets via Microsoft Excel. Excel is a great, human-friendly tool for designing and manipulating data, but it's limited to a certain scale. Once you need data to be entered electronically rather than by hand or be easily accessible by other components, like automatic reports or features on a website, you need something designed more with a machine in mind.
 
 You need a database.
 
-Databases are simply collections of data stored in tables. Understanding how databases are constructed and queried is essential to being able to query large and complex datasets.
+Databases are simply collections of data stored in tables. Understanding how databases are constructed and queried is essential to being able to query large and complex datasets, which is how you get your [scoop](http://www.niemanlab.org/2013/12/scooped-by-code/).
 
 ### Database structure
 
-As for how databases are structured, we prefaced that discussion last week when we looked at Tidy Data. Data stored in tidy tables is exactly the . 
+A database is simply a collection of data stored in tables. A database can have multiple related tables. A table can have multiple fields, including fields related to other tables.
 
-A single database can include multiple related tables. 
+We'll look at an example next, but to preface the discussion, think about the Tidy Data concept we looked at last week. Data stored in tidy tables is exactly the basic organizational structure of databases. You can think of a single data table as a tidy table. We only use slightly different terminology: Instead of talking about _columns_ and _rows_, we describe data tables in _fields_ and _records_. They are almost exactly equivalent. Fields, like columns, should represent variables. Records, like rows, represent observations.
 
-So if you can't use Excel to 
+
+
+
+
 
 # Enter the SQL
 
