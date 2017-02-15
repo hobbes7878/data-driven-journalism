@@ -92,7 +92,9 @@ SQL is a code for querying a database to get only specific records we care about
 
 Databases are created and stored using software. There are many database programs. Some of the most popular open-source ones are PostgreSQL and MySQL. 
 
-We'll be using a simpler database engine called SQLite. We'll also be using DB Browser to interact with our SQLite database in a nicer environment.
+We'll be using a simpler database engine called SQLite. We'll also be using DB Browser to interact with our SQLite database in a nicer environment.p
+
+Download our [practice data](https://raw.githubusercontent.com/hobbes7878/data-driven-journalism/master/wk5/Customers.csv) to follow along with the SQL examples below.
 
 ---
 ## SQL Syntax
