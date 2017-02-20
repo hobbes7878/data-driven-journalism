@@ -7,12 +7,14 @@
 
 ![](/assets/pencil.png)
 
-#### Exercise 1:
+#### Exercise 1: Practice SQL
 
-- Load the data you used for last week's homework into SQLite.
-- Answer the same 3 questions you asked last week, but using SQL.
+For this exercise you may use either your own data from last week's homework _or_ the data from TEA we used in class last week.
+
+
+- Use SQL to answer **three questions** about your data. If you're using your own data, these may be the same three questions you answered last week. If using TEA data from class, you need to ask three new questions.
 - Use [Markdown code blocks and syntax highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting) to record your SQL queries in your data diary. (HINT: The syntax highlighting code for SQL is `sql`.)
-- Ask one additional question of your dataset and answer it in SQL in your data diary.
+- Make sure you write and answer your questions **in English**.
 
 #### Exercise 2:
 Draft pitches for **three** open records requests for electronic data you'd like to file with Texas public agencies as part of your midterm project.
