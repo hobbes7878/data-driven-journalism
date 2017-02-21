@@ -42,3 +42,24 @@ We're trying to tell a story that will be publishable in your school newspaper. 
 
 ---
 
+## In class
+
+### Types of table joins
+
+![](http://www.dofactory.com/Images/sql-joins.png)
+
+#### Inner join
+
+Selects only those records matched in two tables.
+
+#### Full join
+
+Selects all records in both tables.
+
+#### Left join
+
+Selects all records from the first/left table and those matched in the last/right table.
+
+#### Right join
+
+Selects all records in the last/right table and those matched in the first/left table.
