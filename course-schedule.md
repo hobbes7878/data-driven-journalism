@@ -10,11 +10,11 @@
 
 2/15: Structured data, Part 2: Databases
 
-2/22: Just enough programming with Python, part 1
+2/22: Advanced SQL
 
 3/1: Jon at NICAR, no class
 
-3/8: Just enough programming with Python, part 2 (**Midterm project due!**)
+3/8: **Midterm project due!**
 
 3/15: Spring break, no class
 
