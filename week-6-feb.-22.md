@@ -79,6 +79,12 @@ Take a look at this diagram:
 
 We have a table of classes and a table of students taking classes. Notice both tables have a `courseid` field. This field associates records from the students table with those in the courses table. Joining the data from both tables using this field tells us which students are taking which courses.
 
+The `courseid` field on the courses table is our primary key. Notice all the values are unique, indicating a single class in the table.
+
+The `courseid` field on the students table is _not unique_. This should make intuitive sense. Several students take each class. We call this field a **foreign key**. 
+
+The `courseid` field in the students table is _not unique_, which makes sense. There are several students enrolled in each class. We call this column a **
+
 
 
 ### Types of table joins
