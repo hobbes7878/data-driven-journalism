@@ -111,16 +111,22 @@ SQL lets you do different types of joins specifically to answer these different 
 
 ### Basic syntax
 
-Here's how to write a SQL for our first question
+Here's how to write a basic SQL query:
 
 ```sql
 SELECT *
-FROM Products INNER JOIN Orders
-ON product_id = product_fk;
+FROM Table1 LEFT JOIN Table2
+ON Table1.some_column = Table2.another_column;
 ```
+Notice we still start our query with our usual `SELECT ... FROM` pattern.
 
-Notice it still looks like 
+Once we get to the `FROM` statement, however, we need to reference two tables: Table1 and Table2. That should make sense. We're going to be culling records based on the relationship between two tables.
 
+In between those two tables is our join. In this case it's a `LEFT JOIN`, which we'll explain in a second. Just know it's a kind of join.
+
+The last column tells the join how to relate the two tables using our keys! We want to match records that have the same value in Table1's `some_column` with Table2's `another_column`.
+
+The `<table name>.<field name>` dot pattern is one we use to specify which table the field belongs to. It's not necessary if the field is only in one table, but is a good habit to get into, anyway, for those cases where two tables have fields with the same name.
 
 ### Types of table joins
 
@@ -144,4 +150,6 @@ Selects all records in the last/right table and those matched in the first/left 
 
 ## In class exercise
 
-Putting it all together from several classes, use the campus 
+Putting it all together from several classes, use the campus graduation data from TEA we used last week to answer this question:
+
+> What is the relationship between poverty and graduation rates for campuses?
