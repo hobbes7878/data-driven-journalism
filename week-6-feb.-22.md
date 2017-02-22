@@ -42,7 +42,39 @@ We're trying to tell a story that will be publishable in your school newspaper. 
 
 ---
 
-## In class
+## In class 
+
+- Learn SQL Joins
+- Workshop data requests
+
+### More SQL
+
+Up to now, we've been querying data in a single table. Often, though data will be kept across multiple tables or be more interesting when combined with a completely separate data source.
+
+The most obvious example is combining a dataset with demographic info from the U.S. Census, which we'll do later. 
+
+Being able to query across tables is an essential and powerful part of SQL. We call this **joining** tables.
+
+SQL joins always involve just two tables. The act of joining them creates a new table composed of some combination of the other two.w
+
+So how do we combine tables? By using the table's fields!
+
+### Primary keys
+
+The simplest way to combine tables by fields is to use a field explicitly designed for it: a **primary key.**
+
+A primary key is a column that has data that can identify a single row in the table.
+
+Say we had a table of students. The field containing your student ID number would be our primary key because it contains unique identifying information for each student that can be used to find one and only one row in the table.
+
+Primary keys must be unique so they only indicate a single row. In the same table of students, your name would not make a good primary key value because perhaps another student shares your name. Then when we query the table we have no single field that we can uniquely.
+
+Primary keys are often just called _IDs_, for obvious reasons.
+
+![](http://rdbms.opengrass.net/2_Database%20Design/2.1_TermsOfReference/r/keyForeign.gif)
+
+
+
 
 ### Types of table joins
 
