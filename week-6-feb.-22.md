@@ -101,12 +101,30 @@ These are questions that require information from two tables, namely products an
 
 Our products table should have a **primary key**, call it `product_id`. Our orders table will have a **foreign key** to products. We can call that `product_fk`.
 
-Now think about our two questions.
+Now think about our two questions in the context of the primary/foreign key link between those two tables.
+
+To get the products that have orders, we want products that have keys matched to the orders table.
+
+To get products with no orders, we want the opposite: products that don't have a primary key matched.
+
+SQL lets you do different types of joins specifically to answer these different questions.
+
+### Basic syntax
+
+Here's how to write a SQL for our first question
+
+```sql
+SELECT *
+FROM Products INNER JOIN Orders
+ON product_id = product_fk;
+```
+
+Notice it still looks like 
 
 
 ### Types of table joins
 
-![](http://www.dofactory.com/Images/sql-joins.png)
+![](https://i.stack.imgur.com/1Tfy0.jpg)
 
 #### Inner join
 
@@ -123,3 +141,7 @@ Selects all records from the first/left table and those matched in the last/righ
 #### Right join
 
 Selects all records in the last/right table and those matched in the first/left table.
+
+## In class exercise
+
+Putting it all together from several classes, use the campus 
