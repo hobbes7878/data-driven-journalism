@@ -67,12 +67,17 @@ A primary key is a column that has data that can identify a single row in the ta
 
 Say we had a table of students. The field containing your student ID number would be our primary key because it contains unique identifying information for each student that can be used to find one and only one row in the table.
 
-Primary keys must be unique so they only indicate a single row. In the same table of students, your name would not make a good primary key value because perhaps another student shares your name. Then when we query the table we have no single field that we can uniquely.
+Primary keys _must be unique_ so they only indicate a single row. In the same table of students, your name would not make a good primary key value because perhaps another student shares your name. Then when we query the table we have no single field that we can use to get just your row in the table.
 
 Primary keys are often just called _IDs_, for obvious reasons.
 
+A great use of primary keys is to associate data between tables.
+
+Take a look at this diagram:
+
 ![](http://rdbms.opengrass.net/2_Database%20Design/2.1_TermsOfReference/r/keyForeign.gif)
 
+We have a table of classes and a table of students taking classes. Notice both tables have a `courseid` field. This field associates records from the students table with those in the courses table. Joining the data from both tables using this field tells us which students are taking which courses.
 
 
 
