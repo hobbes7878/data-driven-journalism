@@ -85,6 +85,23 @@ The `courseid` field on the students table is _not unique_. This should make int
 
 Which field is the primary key on the student table?
 
+### Joins
+
+SQL allows you to do several kinds of joins using primary and foreign keys. Each type is designed to include a specific subset of data that either matches or doesn't on the key used to join the table.
+
+But before we get into each type, let's think about a practical example from our store database from last week.
+
+Remember we had tables for products, orders and customers.
+
+What if we wanted to get a table of all our products that had been ordered by customers?
+
+What if we wanted to get table of all the products that _hadn't_ been ordered by customers?
+
+These are questions that require information from two tables, namely products and orders. That means we want to join information from those two tables. 
+
+Our products table should have a **primary key**, call it `product_id`. Our orders table will have a **foreign key** to products. We can call that `product_fk`.
+
+Now think about our two questions.
 
 
 ### Types of table joins
@@ -93,7 +110,7 @@ Which field is the primary key on the student table?
 
 #### Inner join
 
-Selects only those records matched in two tables.
+Selects only those records common in both tables.
 
 #### Full join
 
