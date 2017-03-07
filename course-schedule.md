@@ -14,17 +14,17 @@
 
 3/1: Jon at NICAR, no class
 
-3/8: Workshop records requests. **Send by end of the week!**
+3/8: Workshop records requests. **Send requests by end of the week!**
 
 3/15: Spring break, no class
 
-3/22: Statistical literacy
+3/22: SQL refresh and analysis
 
-3/29: Spatial analysis: Journalism by map
+3/29: Intro to statistics
 
-4/5: Data visualization, part 1
+4/5: Data visualization
 
-4/12: Data visualization, part 2
+4/12: GIS and spatial analysis - **Guest lecturer, Allan James Vestal**
 
 4/19: Reproducibility and ethics of data journalism
 
