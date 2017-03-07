@@ -14,7 +14,7 @@
 
 3/1: Jon at NICAR, no class
 
-3/8: **Midterm project due!**
+3/8: Workshop records requests. **Send by end of the week!**
 
 3/15: Spring break, no class
 
@@ -33,5 +33,3 @@
 5/3: Final project presentations
 
 5/8 (Monday): Final projects due by **noon**
-
-**Note:** Schedule is subject to change, especially during the first couple weeks of class as I'm finalizing this syllabus.
