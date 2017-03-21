@@ -13,8 +13,8 @@
 * [Week 9 - Mar. 22](week-9-mar-22.md)
 * [Week 10 - Mar. 29](week-10-mar.-29.md)
 * [Week 11 - Apr. 5](week-11-apr.-5.md)
-* Week 12 - Apr. 12
-* Week 13 - Apr. 19
+* [Week 12 - Apr. 12](week-12-apr-12.md)
+* [Week 13 - Apr. 19](week-13-apr-19.md)
 * Week 14 - Apr. 26
 * Week 15 - May. 3
 
