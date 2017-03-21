@@ -1,4 +1,4 @@
-# Intro to data visualization
+# Data visualization
 
 ---
 
