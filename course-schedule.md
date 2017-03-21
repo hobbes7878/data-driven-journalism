@@ -1,4 +1,4 @@
-# Course schedule
+       # Course schedule
 
 1/18: Introductions (short class)
 
@@ -20,9 +20,9 @@
 
 3/22: SQL refresh and analysis
 
-3/29: Intro to statistics
+3/29: Data visualization
 
-4/5: Data visualization
+4/5: Intro to statistics
 
 4/12: GIS and spatial analysis - **Guest lecturer, Allan James Vestal**
 
