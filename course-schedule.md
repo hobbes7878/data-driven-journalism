@@ -26,9 +26,9 @@
 
 4/12: GIS and spatial analysis - **Guest lecturer, Allan James Vestal**
 
-4/19: Reproducibility and ethics of data journalism
+4/19: Statistics continued...
 
-4/26: Flex day
+4/26: Statistics, finally.
 
 5/3: Final project presentations
 
