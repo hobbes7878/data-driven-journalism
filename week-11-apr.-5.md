@@ -2,12 +2,6 @@
 
 ---
 
-## Before class
-
-![](/assets/book.png)
-
-Buy a copy of [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/0393071952/) by Charles Wheelan (new, used, whatever). You'll need it for next week's homework.
-
 - [How Americans Think About Climate Change, in Six Maps](https://www.nytimes.com/interactive/2017/03/21/climate/how-americans-think-about-climate-change-in-six-maps.html) - _The New York Times_
 - [What Trump cut in his budget](https://www.washingtonpost.com/graphics/politics/trump-presidential-budget-2018-proposal/?utm_term=.72665e246b73) - _The Washington Post_
 - [Gun Deaths in America](https://fivethirtyeight.com/features/gun-deaths/) - _FiveThirtyEight_
