@@ -20,9 +20,9 @@
 
 3/22: SQL refresh and analysis
 
-3/29: Data visualization
+3/29: Intro to statistics
 
-4/5: Intro to statistics
+4/5: Data visualization - **Guest lecturer, Ariana Giorgi**
 
 4/12: GIS and spatial analysis - **Guest lecturer, Allan James Vestal**
 

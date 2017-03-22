@@ -15,6 +15,6 @@
 * [Week 11 - Apr. 5](week-11-apr.-5.md)
 * [Week 12 - Apr. 12](week-12-apr-12.md)
 * [Week 13 - Apr. 19](week-13-apr-19.md)
-* Week 14 - Apr. 26
-* Week 15 - May. 3
+* [Week 14 - Apr. 26](week-14-apr-26.md)
+* [Week 15 - May. 3](week-15-may-3.md)
 
