@@ -15,6 +15,7 @@ Let's do analysis in class!
 #### top states by killed
 
 ```sql
+CREATE TABLE gun_deaths as
 SELECT
 state,
 sum(num_killed) as total_killed
@@ -34,3 +35,15 @@ GROUP BY state
 ORDER BY 2 desc;
 ```
 
+#### Per capita
+
+```sql
+CREATE TABLE gun_deaths_per_cap as
+SELECT
+gun_deaths.state,
+total_killed * 1.0 /
+(population / 100000) as killed
+FROM gun_deaths
+LEFT JOIN poverty
+ON gun_deaths.state = poverty.state;
+```
