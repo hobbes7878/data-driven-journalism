@@ -1,5 +1,7 @@
 # Data visualization
 
+_Guest lecturer: [Ariana Giorgi](https://twitter.com/ArianaNGiorgi)_
+
 ---
 
 - [How Americans Think About Climate Change, in Six Maps](https://www.nytimes.com/interactive/2017/03/21/climate/how-americans-think-about-climate-change-in-six-maps.html) - _The New York Times_
