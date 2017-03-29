@@ -17,4 +17,5 @@
 * [Week 13 - Apr. 19](week-13-apr-19.md)
 * [Week 14 - Apr. 26](week-14-apr-26.md)
 * [Week 15 - May. 3](week-15-may-3.md)
+* [Guest lecturers guide](guest-lecturers-guide.md)
 
