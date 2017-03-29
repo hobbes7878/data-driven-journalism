@@ -6,6 +6,6 @@ _Guest lecturer: [Allan James Vestal](https://twitter.com/allanjvestal)_
 
 ![](/assets/book.png)
 
-**Keep reading "Naked Statistics."** If you're about 200 pages in, you're on track.
+**Keep reading "Naked Statistics."** You should be at or pretty close to Chapter 11 at this point.
 
 
