@@ -2,6 +2,10 @@
 
 _Guest lecturer: [Ariana Giorgi](https://twitter.com/ArianaNGiorgi)_
 
+## Before class
+
+![](/assets/book.png)
+
 ---
 
 - [How Americans Think About Climate Change, in Six Maps](https://www.nytimes.com/interactive/2017/03/21/climate/how-americans-think-about-climate-change-in-six-maps.html) - _The New York Times_
@@ -9,3 +13,5 @@ _Guest lecturer: [Ariana Giorgi](https://twitter.com/ArianaNGiorgi)_
 - [Gun Deaths in America](https://fivethirtyeight.com/features/gun-deaths/) - _FiveThirtyEight_
 - [How The GOP Bill Could Change Health Care, In 8 Charts](https://fivethirtyeight.com/features/how-the-gop-bill-could-change-health-care-in-8-charts/) - _FiveThirtyEight_
 - [Paths to the White House](http://www.nytimes.com/elections/2012/results/president/scenarios.html) - _The New York Times_
+
+**Keep reading "Naked Statistics."** If you're about 100 pages in, you're on track.
