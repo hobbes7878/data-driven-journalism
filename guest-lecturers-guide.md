@@ -1,4 +1,4 @@
-# Guest lecturers' guide
+# Guest lecturer's guide
 
 ### When
 
