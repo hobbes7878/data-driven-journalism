@@ -4,9 +4,7 @@
 
 Your final project in this class will be due **by noon on Monday, May 8.** 
 
-You will write a comprehensive data diary. 
-
-Use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and name the file `diary.md`.
+You will write a comprehensive data diary. Use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and name the file `diary.md`. It will have two parts.
 
 #### Part 1
 
