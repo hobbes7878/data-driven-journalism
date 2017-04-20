@@ -8,19 +8,21 @@ You will write a comprehensive data diary.
 
 #### Part 1
 
-Your diary will include a complete narrative of the open records requests you filed in class. Please date and briefly summarize every piece of correspondence or phone conversation you had with staff at the agency while making your request. You will attach any copies of correspondence to your data diary. Please organize these copies, including your original request, chronologically (preferably as PDFs) in a folder titled "**records request**".
+Your diary will include a complete narrative of the open records requests you filed in class. Please date and briefly summarize any correspondence or phone conversations you had with staff at the agency while making your request. You will attach any copies of correspondence to your data diary. Please organize these copies, including your original request, chronologically (preferably as PDFs) in a folder titled "**records request**".
 
 #### Part 2
 
 The second, and most significant, part of your data diary will document your own original analysis of a dataset.
 
-There is no restriction on which dataset you choose for analysis, but it must lend itself to interesting questions and viable journalistic interest, i.e., you can describe the story you would write off it.
+There is no restriction on which dataset you choose for analysis, but it must lend itself to interesting questions and viable journalistic interest, i.e., you can describe the story you would write off it. (Ideally, though, you would use the data you requested in Part 1.)
 
 You should document the source and contents of your dataset, including a breakdown of the fields in the data. Document any cleaning you needed to do of the data and the steps you took to import the data into a database.
 
 Clearly list the questions you will ask your dataset. **This will be the most significant part of the grade for Part 2.** Come up with good, journalistic questions!
 
 You must show evidence that you used SQL to help answer those questions. Your SQL code should also be written in Markdown with the correct [syntax highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code), i.e., `sql`.
+
+Describe in detail any other data analysis steps you take.
 
 Finally, you should summarize your findings and outline the story you believe you could tell with the data.
 
