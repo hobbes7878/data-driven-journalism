@@ -4,11 +4,15 @@
 
 Your final project in this class will be due **by noon on Monday, May 8.** 
 
-You will write a comprehensive data diary.
+You will write a comprehensive data diary. 
+
+Use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and name the file `diary.md`.
 
 #### Part 1
 
 Your diary will include a complete narrative of the open records requests you filed in class. Please date and briefly summarize any correspondence or phone conversations you had with staff at the agency while making your request. You will attach any copies of correspondence to your data diary. Please organize these copies, including your original request, chronologically (preferably as PDFs) in a folder titled "**records request**".
+
+If you received data from the agency, please include it in its raw form in the same folder.
 
 #### Part 2
 
@@ -18,9 +22,9 @@ There is no restriction on which dataset you choose for analysis, but it must le
 
 You should document the source and contents of your dataset, including a breakdown of the fields in the data. Document any cleaning you needed to do of the data and the steps you took to import the data into a database.
 
-Clearly list the questions you will ask your dataset. **This will be the most significant part of the grade for Part 2.** Come up with good, journalistic questions!
+Clearly list the questions you will ask your dataset. **This will be the most significant part of the grade for your final project.** Come up with good, journalistic questions!
 
-You must show evidence that you used SQL to help answer those questions. Your SQL code should also be written in Markdown with the correct [syntax highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code), i.e., `sql`.
+You must show evidence that you used SQL to help answer those questions. Your SQL queries should be included in your diary and also written Markdown with the correct [syntax highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code). (Hint: the syntax highlighting code is `sql`.)
 
 Describe in detail any other data analysis steps you take.
 
