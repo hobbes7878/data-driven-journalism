@@ -16,7 +16,7 @@ If you received data from the agency, please include it in its raw form in the s
 
 #### Part 2
 
-The second, and most significant, part of your data diary will document your own original analysis of a dataset.
+The second and most significant part of your data diary will document your own original analysis of a dataset.
 
 There is no restriction on which dataset you choose for analysis, but it must lend itself to interesting questions and viable journalistic interest, i.e., you can describe the story you would write off it. (Ideally, though, you would use the data you requested in Part 1.)
 
